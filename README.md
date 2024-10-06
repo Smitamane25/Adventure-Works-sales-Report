@@ -10,7 +10,7 @@ This project focused on analyzing sales data for AdventureWorks, a global bicycl
  
 ![Screenshot 2024-10-06 185831](https://github.com/user-attachments/assets/0d04f1a3-cf42-4e09-9295-6c09f2be7cf3)
 
-![Screenshot 2024-10-06 212926](https://github.com/user-attachments/assets/82464b0f-e605-4650-87f7-9071b9653b1e)
+![Screenshot 2024-10-06 221718](https://github.com/user-attachments/assets/2adddb8e-ebe1-4d87-89c6-69536edb4033)
 
 # Insights
 
