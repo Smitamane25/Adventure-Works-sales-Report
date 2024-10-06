@@ -14,8 +14,42 @@ This project focused on analyzing sales data for AdventureWorks, a global bicycl
 
 # Insights
 
-### [1] Total Number of Customers = 18.1K
+### [1]  Total Revenue = 24.9
+
+   Maximum revenue by prodct size 46 and 42.
+
+   Revenue increase yearly.
+   
+           
+### [2] Total Profit = 10.5M
+
+    
+  
+### [3] Total Products = 293
+
+   Total Orders = 25.2K
+
+   Total Quantity = 56K
+
+   Total Return = 1809
+
+   Return Rate of Products = 3.3%
+
+   Most Order Product = Bike Stand
+
+   Most Return Product = Water Bottel-30 oz
+
+   Maximum orders by accessories.
+  
+
+### [4] Total Number of Customers = 18.1K
 
    Top customer name = Mr. Maurice Shan
 
    Top customer annual income = 80K
+
+   Orders by Top customer  = 6
+
+   Revenue by Top customer  = 12.4K
+
+   Maximum customers from United States.
